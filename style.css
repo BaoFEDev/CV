@@ -52,3 +52,6 @@ section{
 #right-content h2{
     margin-bottom: 10px;
 }
+.skill-list{
+    column-count: 2;
+}
